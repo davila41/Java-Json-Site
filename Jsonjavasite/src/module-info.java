@@ -1,0 +1,3 @@
+module Jsonjavasite {
+	exports fundamentos;
+}
