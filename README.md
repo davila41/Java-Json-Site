@@ -1,1 +1,4 @@
-# Java-Json-Site
+# Backend
+Utilizando Java
+# Banco de dados
+MySql
